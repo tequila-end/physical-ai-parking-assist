@@ -1,0 +1,11 @@
+.venv/
+.pip-cache/
+.tmp/
+__pycache__/
+*.pyc
+artifacts/
+.env
+.env.*
+!.env.example
+first_render.png
+*.log
