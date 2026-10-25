@@ -1,0 +1,14 @@
+[
+  {"text":"入口の近いところをお願いします", "label":"near_entrance"},
+  {"text":"できるだけ歩く距離を短くしてください", "label":"near_entrance"},
+  {"text":"荷物があるので入り口のそばに停めたい", "label":"near_entrance"},
+  {"text":"近い駐車スペースに案内してほしい", "label":"near_entrance"},
+  {"text":"入口に近い方が助かります", "label":"near_entrance"},
+  {"text":"入口までの移動距離を減らしたいです", "label":"near_entrance"},
+  {"text":"空いていればどこでも大丈夫です", "label":"any"},
+  {"text":"特に希望はないのでお任せします", "label":"any"},
+  {"text":"入口から遠くても構わないです", "label":"any"},
+  {"text":"駐車場所にこだわりはありません", "label":"any"},
+  {"text":"近い場所である必要はないです", "label":"any"},
+  {"text":"歩く距離は気にしないのでどこでもいい", "label":"any"}
+]
